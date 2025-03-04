@@ -10,7 +10,8 @@ The **Fake Product Review Detector** is an **NLP-based machine learning model** 
 
 ## 👨‍💻 Author  
 
-**Pranjal**  
+**SONALI
+**  
 📍 Developed as part of the **National Institute of Technology Agartala**.  
 
 ---
