@@ -1,0 +1,15 @@
+Flask
+gdown
+requests
+scikit-learn
+pandas
+numpy
+os
+gdown
+fastapi
+torch
+pydantic
+transformers
+streamlit
+requests
+streamlit_lottie
